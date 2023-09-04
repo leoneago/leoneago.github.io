@@ -31,17 +31,17 @@ Journal Articles and Book Chapters
 
 -  **Leone A**., Puncher G.N., Ferretti F., Cariani A., Sperone E., Micarelli P., Gambarelli A., Sarà M., Arculeo M., Doria G., Garibaldi F., Dall’Asta A., Minelli D., Cilli E., Vanni S., Serena F., Diaz-Jaimez P., Tinti F. (2020). Pliocene colonization of the Mediterranean by Great White Shark inferred from fossil records, historical jaws, phylogeographic and divergence time analyses. __*Journal of Biogeography*__, 47(5): 1119-1129. doi: https://doi.org/10.1111/jbi.13794
 
--  Leonetti FL, Giglio G, **Leone A**, Coppola F, Romano C, Bottaro M, Reinero FR, Milazzo C, Micarelli P, Tripepi S, Sperone E. 2020. An updated checklist of chondrichthyans of Calabria (Central Mediterranean, southern Italy), with emphasis on rare species. __*Mediterranean Marine Science*__, 21:794–807
+-  Leonetti FL, Giglio G, **Leone A**, Coppola F, Romano C, Bottaro M, Reinero FR, Milazzo C, Micarelli P, Tripepi S, Sperone E. 2020. An updated checklist of chondrichthyans of Calabria (Central Mediterranean, southern Italy), with emphasis on rare species. __*Mediterranean Marine Science*__, 21:794–807. doi: https://doi.org/10.12681/mms.23321
 
 -  **Leone A**., Leone A., Álvarez P., García D., Saborido-Rey F., and Rodriguez-Ezpeleta N. (2019). Genome-wide SNP based population structure in European hake reveals the need for harmonizing biological and management units. __*ICES Journal of Marine Science*__, 76(7): 2260-2266. doi: https://doi.org/10.1093/icesjms/fsz161.
 
 -  Puncher G.N., Cariani A., Cilli E., Massari F., **Leone A**., Morales-Muñiz A., Onar V., Toker N.Y., Casasola D.B., Moens T., Tinti F. (2019) Comparison and optimization of genetic tools used for the identification of ancient fish remains recovered from archaeological excavations and museum collections in the Mediterranean region. __*International Journal of Osteoarchaeology*__, 29(3):  365– 376. doi: https://doi.org/10.1002/oa.2765
 
--  **Leone A**., Urso I., Damalas D., Martinsohn J., Zanzi A., Sperone E., Micarelli P., Garibaldi F., Megalofonou P., Bargelloni L., Franch R., Macias D., Prodöhl P., Fitzpatrick S., Stagioni M., Tinti F., Cariani A. (2017). Genetic differentiation and phylogeography of Mediterranean-North Eastern Atlantic blue shark (Prionace glauca, L. 1758) using mitochondrial DNA: panmixia or complex stock structure? __*PeerJ*__, 5:e4112. https://doi.org/10.7717/peerj.4112.
+-  **Leone A**., Urso I., Damalas D., Martinsohn J., Zanzi A., Sperone E., Micarelli P., Garibaldi F., Megalofonou P., Bargelloni L., Franch R., Macias D., Prodöhl P., Fitzpatrick S., Stagioni M., Tinti F., Cariani A. (2017). Genetic differentiation and phylogeography of Mediterranean-North Eastern Atlantic blue shark (Prionace glauca, L. 1758) using mitochondrial DNA: panmixia or complex stock structure? __*PeerJ*__, 5:e4112. doi: https://doi.org/10.7717/peerj.4112.
 
 -  Micarelli P., Sperone E., Circosta V., **Leone A**., Giglio G, Tripepi S. 2015. Preliminary Observations On Great White Shark (Carcharodon carcharias) surface predatory activity. __*Biologia Marina Mediterranea*__, 22 (1), 184-185.
 
--  Sperone E., Parise G., **Leone A**., Milazzo C., Circosta V., Santoro G., Paolillo G., Micarelli P., Tripepi S. (2012) Spatiotemporal patterns of distribution of large predatory sharks in Calabria (central Mediterranean, southern Italy). __*Acta Adriatica*__, 53: 13-24
+-  Sperone E., Parise G., **Leone A**., Milazzo C., Circosta V., Santoro G., Paolillo G., Micarelli P., Tripepi S. (2012) Spatiotemporal patterns of distribution of large predatory sharks in Calabria (central Mediterranean, southern Italy). __*Acta Adriatica*__, 53: 13-24.
 
  <a name="reports"></a>
 **Technical reports/articles** <br> 
