@@ -30,6 +30,10 @@ Through genome-representative and ddRAD-derived SNP markers, we....
 
 
 ## Deep-Sea rockfish adaptation and population structure
+<figure>
+<img src="assets/Helicolenus.jpg" alt="Helicolenus" width="700" align="center"> 
+</figure>
+
 
 # environmental DNA
 
