@@ -3,12 +3,12 @@ layout: default
 title: Courses
 ---
 
-# Molecular Ecology 
+## - course 
 
 
 <br>
 
-# Ecological Genetics
+## - course
 
 
 <br>
