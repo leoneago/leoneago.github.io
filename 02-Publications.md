@@ -32,7 +32,7 @@ Journal Articles and Book Chapters
 -  **Leone A**., Puncher G.N., Ferretti F., Cariani A., Sperone E., Micarelli P., Gambarelli A., Sarà M., Arculeo M., Doria G., Garibaldi F., Dall’Asta A., Minelli D., Cilli E., Vanni S., Serena F., Diaz-Jaimez P., Tinti F. (2020). Pliocene colonization of the Mediterranean by Great White Shark inferred from fossil records, historical jaws, phylogeographic and divergence time analyses. __*Journal of Biogeography*__, 47(5): 1119-1129. doi: https://doi.org/10.1111/jbi.13794
 **Media Coverage and Public Outreach**<br>
 [<img src="assets/Fox-news-logo.png" height = "73" alt="NPG" style = "border-radius: 15px">]([http:/](https://www.foxnews.com/science/mediterranean-great-white-sharks-older-than-thought)
-[<img src="assets/.favicon-1500x1500.png" height = "73" alt="EUC" style = "border-radius: 15px">](https://www.lescienze.it/news/2020/02/12/news/il_grande_squalo_bianco_abita_il_mediterraneo_da_almeno_3_2_milioni_di_anni-4676719/)
+[<img src="assets/favicon-1500x1500.png" height = "73" alt="EUC" style = "border-radius: 15px">](https://www.lescienze.it/news/2020/02/12/news/il_grande_squalo_bianco_abita_il_mediterraneo_da_almeno_3_2_milioni_di_anni-4676719/)
 [<img src="assets/1200px-ANSA_logo.png" height = "73" alt="der Standard" style = "border-radius: 15px">](https://www.ansa.it/canale_ambiente/notizie/natura/2020/02/14/squalo-bianco-in-mediterraneo-da-32mln-di-annivia-pacifico_467b3c47-2cbe-4412-942a-142dd936b60e.html)
 [<img src="assets/gazzettino.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">]([http://](https://www.ilgazzettino.it/animali/squalo_bianco_estinzione-5055067.html?refresh_ce))
 
