@@ -36,7 +36,7 @@ Journal Articles and Book Chapters
 [<img src="assets/png-clipart-phys-org-science-physics-technology-research-science-blue-biology-thumbnail.png" height = "73" alt="NPG" style = "border-radius: 15px">](https://phys.org/news/2020-02-mediterranean-great-white-sharks-million-year-old.html)
 [<img src="assets/favicon-1500x1500.png" height = "73" alt="EUC" style = "border-radius: 15px">](https://www.lescienze.it/news/2020/02/12/news/il_grande_squalo_bianco_abita_il_mediterraneo_da_almeno_3_2_milioni_di_anni-4676719/)
 [<img src="assets/1200px-ANSA_logo.png" height = "73" alt="der Standard" style = "border-radius: 15px">](https://www.ansa.it/canale_ambiente/notizie/natura/2020/02/14/squalo-bianco-in-mediterraneo-da-32mln-di-annivia-pacifico_467b3c47-2cbe-4412-942a-142dd936b60e.html)
-[<img src="assets/gazzettino.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">]([http://](https://www.ilgazzettino.it/animali/squalo_bianco_estinzione-5055067.html?refresh_ce))
+[<img src="assets/gazzettino.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.ilgazzettino.it/animali/squalo_bianco_estinzione-5055067.html?refresh_ce)
 
 -  Leonetti FL, Giglio G, **Leone A**, Coppola F, Romano C, Bottaro M, Reinero FR, Milazzo C, Micarelli P, Tripepi S, Sperone E. 2020. An updated checklist of chondrichthyans of Calabria (Central Mediterranean, southern Italy), with emphasis on rare species. __*Mediterranean Marine Science*__, 21:794–807. doi: https://doi.org/10.12681/mms.23321
 
