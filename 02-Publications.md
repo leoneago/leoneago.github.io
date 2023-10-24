@@ -22,6 +22,8 @@ Publications
 
 Journal Articles and Book Chapters
 ----------------------------------
+
+ - ARTICLE A, C. (2023). New records of introduced species in the Mediterranean Sea (2023). Mediterranean Marine Science. https://doi.org/10.12681/mms.34474
  
  - Nikolic N, Devloo-Delva F, Bailleul D, Noskova E, Rougeux C, Delord C, Borsa P, Liautard-Haag C, Hassan M, Marie A, Feutry P, Grewe P, Davies C, Farley J, Fernando D, Biton-Porsmoguer S, Poisson F, Parker D, **Leone A**, Aulich J, Lansdell M, Marsac F, Arnaud-Haond S. 2022. Stepping up to genome scan allows stock differentiation in the worldwide distributed blue shark Prionace glauca. __*Molecular Ecology*__, 3(5): 1000-1019. doi: https://doi.org/10.1111/mec.16822 [View Publication](https://doi.org/10.1111/mec.16822)
 
