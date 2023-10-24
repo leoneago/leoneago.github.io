@@ -36,7 +36,7 @@ Journal Articles and Book Chapters
 
 [<img src="assets/gif_blueshark_ecological_niche.gif" alt="NPG" alt="blueshark_niche" align="center">](https://sustainable-fisheries.ec.europa.eu/spatial-fish-habitat-and-fishing-effort/fish-habitat/watch-fish-migration_en)
 
-The JRC [website](https://sustainable-fisheries.ec.europa.eu/spatial-fish-habitat-and-fishing-effort/fish-habitat/watch-fish-migration_en) provides substantial details for a deeper insight of the analysis and notably seven regional habitat animations by size and sex classes with the overlay of blue shark presence data (observer and electronic tagging data) for interpreting the seasonal movements. (Click to expand)</summary>
+<summary> The JRC [website](https://sustainable-fisheries.ec.europa.eu/spatial-fish-habitat-and-fishing-effort/fish-habitat/watch-fish-migration_en) provides substantial details for a deeper insight of the analysis and notably seven regional habitat animations by size and sex classes with the overlay of blue shark presence data (observer and electronic tagging data) for interpreting the seasonal movements. (Click to expand)</summary>
 
 
 -  **Leone A**., Puncher G.N., Ferretti F., Cariani A., Sperone E., Micarelli P., Gambarelli A., Sarà M., Arculeo M., Doria G., Garibaldi F., Dall’Asta A., Minelli D., Cilli E., Vanni S., Serena F., Diaz-Jaimez P., Tinti F. (2020). Pliocene colonization of the Mediterranean by Great White Shark inferred from fossil records, historical jaws, phylogeographic and divergence time analyses. __*Journal of Biogeography*__, 47(5): 1119-1129. doi: https://doi.org/10.1111/jbi.13794 [View Publication](https://doi.org/10.1111/jbi.13794)
