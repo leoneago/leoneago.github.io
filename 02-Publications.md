@@ -35,6 +35,7 @@ Journal Articles and Book Chapters
 -  Druon JN., Campana S., Vandeperre F., Hazin F.V., Bowlby H., Coelho R., Queiroz N., Serena F., Abascal F., Damalas D., Musyl M.K., Lopez J., Block B.A., Alfonso P., Dewar H., Sabarros P.S., Finucci B., Zanzi A., Bach P., Senina I., Garibaldi F., Sims D.W., Navarro J., Cermeño P., **Leone A**., Diez G., Teresa M., Deflorio M., Romanov E.V., Jung A., Lapinsky M., Francis M., Gomes Hazin H., Travassos P. (2022). Global-scale environmental niche and habitat of blue shark (Prionace glauca) by size and sex: a pivotal step to improving stock management. __*Frontiers in Marine Science*__, 9:828412. doi: https://doi.org/10.3389/fmars.2022.828412 [View Publication](https://doi.org/10.3389/fmars.2022.828412)
 
 [<img src="assets/gif_blueshark_ecological_niche.gif" alt="NPG" alt="blueshark_niche" align="center">] (https://sustainable-fisheries.ec.europa.eu/spatial-fish-habitat-and-fishing-effort/fish-habitat/watch-fish-migration_en)
+
 The JRC [website](https://sustainable-fisheries.ec.europa.eu/spatial-fish-habitat-and-fishing-effort/fish-habitat/watch-fish-migration_en) provides substantial details for a deeper insight of the analysis and notably seven regional habitat animations by size and sex classes with the overlay of blue shark presence data (observer and electronic tagging data) for interpreting the seasonal movements. (Click to expand)</summary>
 
 
