@@ -49,6 +49,8 @@ Journal Articles and Book Chapters
 [<img src="assets/Seal_of_the_University_of_Bologna.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.unibo.it/en/notice-board/the-great-white-shark-and-the-mediterranean-a-3-2-mln-years-long-history)
 [<img src="assets/United_Press_International_(UPI)_logo.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.upi.com/Science_News/2020/02/12/Great-white-sharks-have-been-in-Mediterranean-for-32M-years/6581581509323/)
 [<img src="assets/Logo_Europa_Press.jpeg" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.europapress.es/sociedad/medio-ambiente-00647/noticia-analisis-adn-revelan-gran-tiburon-blanco-mediterraneo-peligro-extincion-20200212104517.html)
+[<img src="assets/sciences-et-avenir-logo-DC508E3817-seeklogo.com.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.sciencesetavenir.fr/animaux/animaux-marins/plus-de-3-ma-d-annees-de-presence-pour-le-requin-blanc-en-mediterranee_141529)
+[<img src="assets/Breitbart_News.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.breitbart.com/news/great-white-sharks-have-been-in-mediterranean-for-3-2m-years/)
 
 -  Leonetti FL, Giglio G, **Leone A**, Coppola F, Romano C, Bottaro M, Reinero FR, Milazzo C, Micarelli P, Tripepi S, Sperone E. 2020. An updated checklist of chondrichthyans of Calabria (Central Mediterranean, southern Italy), with emphasis on rare species. __*Mediterranean Marine Science*__, 21:794–807. doi: https://doi.org/10.12681/mms.23321 [View Publication](https://doi.org/10.12681/mms.23321)
 
