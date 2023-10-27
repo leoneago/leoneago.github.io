@@ -23,9 +23,9 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - ARTICLE A, C. (2023). New records of introduced species in the Mediterranean Sea (2023). Early View __*Mediterranean Marine Science*__, 24(3). doi: https://doi.org/10.12681/mms.34474
+ - ARTICLE A, C. (2023). New records of introduced species in the Mediterranean Sea. Early View __*Mediterranean Marine Science*__, 24(3). doi: https://doi.org/10.12681/mms.34474
  
- - Nikolic N, Devloo-Delva F, Bailleul D, Noskova E, Rougeux C, Delord C, Borsa P, Liautard-Haag C, Hassan M, Marie A, Feutry P, Grewe P, Davies C, Farley J, Fernando D, Biton-Porsmoguer S, Poisson F, Parker D, **Leone A**, Aulich J, Lansdell M, Marsac F, Arnaud-Haond S. 2022. Stepping up to genome scan allows stock differentiation in the worldwide distributed blue shark Prionace glauca. __*Molecular Ecology*__, 3(5): 1000-1019. doi: https://doi.org/10.1111/mec.16822 [View Publication](https://doi.org/10.1111/mec.16822)
+ - Nikolic N, Devloo-Delva F, Bailleul D, Noskova E, Rougeux C, Delord C, Borsa P, Liautard-Haag C, Hassan M, Marie A, Feutry P, Grewe P, Davies C, Farley J, Fernando D, Biton-Porsmoguer S, Poisson F, Parker D, **Leone A**, Aulich J, Lansdell M, Marsac F, Arnaud-Haond S. (2022). Stepping up to genome scan allows stock differentiation in the worldwide distributed blue shark Prionace glauca. __*Molecular Ecology*__, 3(5): 1000-1019. doi: https://doi.org/10.1111/mec.16822 [View Publication](https://doi.org/10.1111/mec.16822)
 
 **Publication Cover**<br>
 [<img src="assets/mec16511-toc-0001-m.jpg" alt="NPG">](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16511)
