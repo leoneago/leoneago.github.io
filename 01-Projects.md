@@ -26,8 +26,8 @@ title: Projects
 Through genome-representative and ddRAD-derived SNP markers, we are investigating the population structure of the Mediterranean and North East Atlantic blue shark, in order to delineate the number of populations detecatable in the study areas. Genome-representative markers allows a way deeper search for population genetic signals capable to discriminate different populations, which may be under the effect of separate demographic processes. This is mandatory to better manage the stock and preserve their resilience under the direct and undirect anthropogenic pressures (overfishing, loss of habitat, climate change, etc.).
 The project is funder by the Joint Research Center of the European Union, and the project website can be seen
 <a href="https://sustainable-fisheries.ec.europa.eu/fisheries-genetics/projects-fisheries-genetics/medbluesgen_en">here</a>.
-An interactive sampling map is available [here](https://sustainable-fisheries.ec.europa.eu/fisheries-genetics/projects-fisheries-genetics/medbluesgen/dataset_en)
-Published articles within this project can be viewed here ....
+An interactive sampling map is available <a href="https://sustainable-fisheries.ec.europa.eu/fisheries-genetics/projects-fisheries-genetics/medbluesgen/dataset_en">here</a>.
+Published articles within this project can be viewed <a href="https://leoneago.github.io/02-Publications.html">here</a>
 </details>
 
 <br>
