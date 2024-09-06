@@ -62,7 +62,7 @@ Journal Articles and Book Chapters
 
 -  **Leone A**., Urso I., Damalas D., Martinsohn J., Zanzi A., Sperone E., Micarelli P., Garibaldi F., Megalofonou P., Bargelloni L., Franch R., Macias D., Prodöhl P., Fitzpatrick S., Stagioni M., Tinti F., Cariani A. (2017). Genetic differentiation and phylogeography of Mediterranean-North Eastern Atlantic blue shark (*Prionace glauca*, L. 1758) using mitochondrial DNA: panmixia or complex stock structure? __*PeerJ*__, 5:e4112. doi: https://doi.org/10.7717/peerj.4112 [View Publication](https://doi.org/10.7717/peerj.4112)
 
--  Micarelli P., Sperone E., Circosta V., **Leone A**., Giglio G, Tripepi S. 2015. Preliminary Observations On Great White Shark (Carcharodon carcharias) surface predatory activity. __*Biologia Marina Mediterranea*__, 22 (1), 184-185. [View Publication](https://usiena-air.unisi.it/handle/11365/1227455)
+-  Micarelli P., Sperone E., Circosta V., **Leone A**., Giglio G, Tripepi S. 2015. Preliminary Observations On Great White Shark (*Carcharodon carcharias*) surface predatory activity. __*Biologia Marina Mediterranea*__, 22 (1), 184-185. [View Publication](https://usiena-air.unisi.it/handle/11365/1227455)
 
 -  Sperone E., Parise G., **Leone A**., Milazzo C., Circosta V., Santoro G., Paolillo G., Micarelli P., Tripepi S. (2012) Spatiotemporal patterns of distribution of large predatory sharks in Calabria (central Mediterranean, southern Italy). __*Acta Adriatica*__, 53: 13-24. [View Publication](https://acta.izor.hr/ojs/index.php/acta/article/view/331)
 
