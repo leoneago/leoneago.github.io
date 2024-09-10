@@ -14,8 +14,8 @@ title: Projects
 
 
 <figure>
-<img src="assets/blueshark.jpg" alt="MedBlueSGen" width="700" align="center"> 
-<figcaption> Blue shark. Photo: Nuno Sa/Nature Picture Library/Corbis.</figcaption>
+<img src="assets/Tiburón_azul_(Prionace_glauca),_canal_Fayal-Pico,_islas_Azores,_Portugal,_2020-07-27,_DD_31.jpg" alt="MedBlueSGen" width="700" align="center"> 
+<figcaption> Photo By Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108259682.</figcaption>
 </figure>
 
 <details>
