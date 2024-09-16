@@ -5,10 +5,7 @@ title: Projects
 
 # Population Genetics and Genomics
 
-
 <br>
-
-
 
 ## MedBlueSGen: a population genetic study on Mediterranean and North East Atlantic blue shark for stocks identification and conservation
 
@@ -41,7 +38,7 @@ Published articles within this project can be viewed <a href="https://leoneago.g
 
 # environmental DNA
 
-## The environmental DNA and Marine Protected Areas - National Biodiversity Future Center, NBFC
+## The environmental DNA as a biomonitoring tool in Marine Protected Areas - National Biodiversity Future Center, NBFC
 
 <figure>
 <img src="assets/Logo_NBFC_CMYK.png" alt="Logo_NBFC" width="700" align="center"> 
