@@ -30,7 +30,7 @@ Published articles within this project can be viewed <a href="https://leoneago.g
 <br>
 
 
-## Deep-Sea rockfish adaptation and population structure
+## Deep-sea rockfish adaptation and population structure
 <figure>
 <img src="assets/Helicolenus.jpg" alt="Helicolenus" width="700" align="center"> 
 </figure>
@@ -40,7 +40,7 @@ Published articles within this project can be viewed <a href="https://leoneago.g
 
 
 
-## The environmental DNA as a biomonitoring tool in Marine Protected Areas - National Biodiversity Future Center, NBFC
+## The environmental DNA as a biomonitoring tool among several Marine Protected Areas (MPAs) - National Biodiversity Future Center, NBFC
 
 <figure>
 <img src="assets/Logo_NBFC_CMYK.png" alt="Logo_NBFC" width="700" align="center"> 
