@@ -23,7 +23,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Delord, C., Arnaud-Haond, S., **Leone, A.**, Rolland, J., Nikolic, N. (2024). Unraveling the complexity of the Ne/Nc Ratio for conservation of large and widespread pelagic species: current status and challenges. __*Evolutionary Applications__*, 17(10): e70020. [View Publication](https://doi.org/10.1111/eva.70020).
+ - Delord, C., Arnaud-Haond, S., **Leone, A.**, Rolland, J., Nikolic, N. (2024). Unraveling the complexity of the Ne/Nc Ratio for conservation of large and widespread pelagic species: current status and challenges. __*Evolutionary Applications*__, 17(10): e70020. [View Publication](https://doi.org/10.1111/eva.70020).
    
  - **Leone, A.**, Arnaud-Haond, S., Babbucci, M., Bargelloni, L., Coscia, I., Damalas, D., Delord, C., Franch, R., Garibaldi, F., Macias, D., Mariani, S., Martinsohn, J., Megalofonou, P., Micarelli, P., Nikolic, N., Prodöhl, P.A., Sperone, E., Stagioni, M., Zanzi, A., Cariani, A., Tinti, F. (2024). Population genomics of the blue shark, Prionace glauca, reveals different populations in the Mediterranean Sea and the North East Atlantic. __*Evolutionary Applications*__, 17(9): e70005. doi: https://doi.org/10.1111/eva.70005 [View Publication](https://doi.org/10.1111/eva.70005)
  
