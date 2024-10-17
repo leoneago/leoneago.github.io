@@ -35,6 +35,20 @@ Published articles within this project can be viewed <a href="https://leoneago.g
 <img src="assets/Helicolenus.jpg" alt="Helicolenus" width="700" align="center"> 
 </figure>
 
+<details>
+  <summary>Characterize the population structure and the genomic adaptations to the deep environments of the blackbelly rosefish, *Helicolenus dactylopterus*, along the North East Atlantic Ocean. (Click to expand)</summary>
+  
+<br>
+  
+Using genome-wide SNP markers, we are investigating the population structure of this common but still enigmatic deep-sea rockfish, together with its genomic adaptation to the extreme environments where this species live.
+Analasyng genome-wide markers of blackbelly rosefish catched at several depths (from 50 to 700 meters), we are conducting genotype-environment analysis to reveal is the adaptation to specific depths are shaping different populations of this small but territorial rockfish.
+The results will facilitate a sustainable management of this fishing resources.
+The project is part of the ATLAS project, visible  <a href="[https://sustainable-fisheries.ec.europa.eu/fisheries-genetics/projects-fisheries-genetics/medbluesgen_en](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c70bb4f8&appId=PPGMS)">here</a>.
+
+</details>
+
+<br>
+
 
 # environmental DNA
 
