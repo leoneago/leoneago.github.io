@@ -59,3 +59,10 @@ The project is part of the ATLAS project, visible <a href="https://www.eu-atlas.
 <figure>
 <img src="assets/Logo_NBFC_CMYK.png" alt="Logo_NBFC" width="700" align="center"> 
 </figure>
+
+<details>
+  <summary>Characterize the marine fish biodiversity using the environmental DNA metabarcoding. (Click to expand)</summary>
+  
+<br>
+  
+Using eDNA metabarcoding, to be continued.
