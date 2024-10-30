@@ -65,4 +65,4 @@ The project is part of the ATLAS project, visible <a href="https://www.eu-atlas.
   
 <br>
   
-Using eDNA metabarcoding, to be continued.
+This project aims at biologically carachterize several Marine Protected Areas in order to identify new areas to protect and increase the percentage of marine areas under protection, following the EU... to be continued
