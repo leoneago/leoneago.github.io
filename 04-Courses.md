@@ -8,6 +8,7 @@ academic year 2023/2024
 #### - Master's Degree Course in Natural Sciences (LM-60)
 #### - Corso di Laurea Magistrale in Scienze della Natura (LM-60)
 - Didattica dell'Ecologia (3 CFU); II Semestre
+
 academic year 2024/2025
 #### - Master's Degree Course in Natural Sciences (LM-60)
 #### - Corso di Laurea Magistrale in Scienze della Natura (LM-60)
