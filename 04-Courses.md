@@ -14,6 +14,7 @@ title: Courses
 #### - Corso di Laurea Magistrale in Scienze della Natura (LM-60)
 - Didattica dell'Ecologia (3 CFU); I Semestre
 <br>
+
 ## Doctoral School in Biodiversity, University of Palermo
 
 #### - National PhD course in Biodiversity XXXIX ciclo University of Palermo
