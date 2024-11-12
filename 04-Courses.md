@@ -15,8 +15,12 @@ title: Courses
 - Didattica dell'Ecologia (3 CFU); I Semestre
 <br>
 ## Doctoral School in Biodiversity, University of Palermo
+
 #### - National PhD course in Biodiversity XXXIX ciclo University of Palermo
+
 - Molecular Ecology (3 CFU)
+- 
 #### - National PhD course in Biodiversity XXXX ciclo University of Palermo
+
 - Molecular Ecology (3 CFU)
 <br>
