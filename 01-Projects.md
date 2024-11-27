@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-# Population Genetics and Genomics
+# - Population Genetics and Genomics
 
 <br>
 
@@ -50,7 +50,7 @@ The project is part of the ATLAS project, visible <a href="https://www.eu-atlas.
 <br>
 
 
-# environmental DNA
+# - environmental DNA
 
 
 
