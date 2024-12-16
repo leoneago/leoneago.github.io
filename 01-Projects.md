@@ -16,7 +16,7 @@ title: Projects
 </figure>
 
 <details>
-  <summary>Characterize the population structure of the Mediterranean and neighboring Atlantic blue shark, *Prionace glauca*, populations, for stock delineation and conservation. (Click to expand)</summary>
+  <summary>Characterize the population structure of the Mediterranean and neighboring Atlantic blue shark, _Prionace glauca_ , populations, for stock delineation and conservation. (Click to expand)</summary>
   
 <br>
   
@@ -36,7 +36,7 @@ Published articles within this project can be viewed <a href="https://leoneago.g
 </figure>
 
 <details>
-  <summary>Characterize the population structure and the genomic adaptations to the deep environments of the blackbelly rosefish, _Helicolenus dactylopterus_, along the North East Atlantic Ocean. (Click to expand)</summary>
+  <summary>Characterize the population structure and the genomic adaptations to the deep environments of the blackbelly rosefish, _Helicolenus dactylopterus_ , along the North East Atlantic Ocean. (Click to expand)</summary>
   
 <br>
   
