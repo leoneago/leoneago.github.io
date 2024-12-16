@@ -19,9 +19,9 @@ title: Courses
 
 #### - National PhD course in Biodiversity XXXIX ciclo University of Palermo
 
-- Molecular Ecology (3 CFU)
+- Molecular Ecology (4 CFU)
   
 #### - National PhD course in Biodiversity XXXX ciclo University of Palermo
 
-- Molecular Ecology (3 CFU)
+- Molecular Ecology (4 CFU)
 <br>
