@@ -36,7 +36,7 @@ Published articles within this project can be viewed <a href="https://leoneago.g
 </figure>
 
 <details>
-  <summary>Characterize the population structure and the genomic adaptations to the deep environments of the blackbelly rosefish, *Helicolenus dactylopterus*, along the North East Atlantic Ocean. (Click to expand)</summary>
+  <summary>Characterize the population structure and the genomic adaptations to the deep environments of the blackbelly rosefish, _Helicolenus dactylopterus_, along the North East Atlantic Ocean. (Click to expand)</summary>
   
 <br>
   
