@@ -23,6 +23,8 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
+ - Oomen R.A., Cariani A., Chavarie L., **Leone, A.**, Vella, A., Vella, N., Hellström, G., Brodin, T., Sundelöf, A., Blaxter, M., Mc Cartney, A.M., Formenti, G., Mouton, A., Tinti, F., Garibaldi, F., Lundberg, P. (2025). The genome sequence of Atlantic Bluefin Tuna, Thunnus thynnus (Linnaeus, 1758) [version 1; peer review: **awaiting peer review**]. __*Wellcome Open Research*__, 10:163. doi: https://doi.org/10.12688/wellcomeopenres.23971.1 [View Publication](https://doi.org/10.12688/wellcomeopenres.23971.1).
+
  - Delord, C., Arnaud-Haond, S., **Leone, A.**, Rolland, J., Nikolic, N. (2024). Unraveling the complexity of the _Ne/Nc_ Ratio for conservation of large and widespread pelagic species: current status and challenges. __*Evolutionary Applications*__, 17(10): e70020. doi: https://doi.org/10.1111/eva.70020 [View Publication](https://doi.org/10.1111/eva.70020).
    
  - **Leone, A.**, Arnaud-Haond, S., Babbucci, M., Bargelloni, L., Coscia, I., Damalas, D., Delord, C., Franch, R., Garibaldi, F., Macias, D., Mariani, S., Martinsohn, J., Megalofonou, P., Micarelli, P., Nikolic, N., Prodöhl, P.A., Sperone, E., Stagioni, M., Zanzi, A., Cariani, A., Tinti, F. (2024). Population genomics of the blue shark, Prionace glauca, reveals different populations in the Mediterranean Sea and the North East Atlantic. __*Evolutionary Applications*__, 17(9): e70005. doi: https://doi.org/10.1111/eva.70005 [View Publication](https://doi.org/10.1111/eva.70005)
