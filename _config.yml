@@ -1,7 +1,8 @@
 # Site settings
 title: Agostino Leone
 email: agostino.leone@unipa.it
-
+description: > # this means to ignore newlines until "baseurl:"
+   PopGen and Marine Molecular Ecology
 
 twitter_username: leoneago
 github_username:  leoneago
