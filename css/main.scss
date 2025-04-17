@@ -50,13 +50,3 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
-/* Hover effect per Bluesky icon nel footer */
- .social-media-list li a .icon--bluesky svg {
-   fill: #828282;
-   transition: fill 0.3s ease, transform 0.3s ease;
- }
- 
- .social-media-list li a:hover .icon--bluesky svg {
-   fill: #1d9bf0; /* Colore azzurro brillante stile Bluesky */
-   transform: scale(1.15); /* Leggero ingrandimento al passaggio */
- }
