@@ -45,6 +45,19 @@
             </a>
           </li>
           {% endif %}
+	{% if site.bluesky_username %}
+<li>
+  <a href="https://bsky.app/profile/{{ site.bluesky_username }}" target="_blank" title="Follow me on Bluesky">
+    <span class="icon icon--bluesky">
+      <svg viewBox="0 0 100 100" width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+        <path fill="#828282" d="M50,15c-4.4,10-15,18.6-30,21.6c7.4,0,13.8,3.2,18.6,9.4c4.8,6.2,7.2,13.6,7.2,22c0,10.8-3.4,20.2-10.2,28.2
+          C48.4,88,57.2,77.2,64.2,62.4c7-14.8,10.6-27.2,10.6-37.2c0-3.2-0.6-5.8-1.8-7.8C69.4,13.6,60.4,13.8,50,15z"/>
+      </svg>
+    </span>
+    <span class="username">{{ site.bluesky_username }}</span>
+  </a>
+</li>
+{% endif %}
         </ul>
       </div>
 
