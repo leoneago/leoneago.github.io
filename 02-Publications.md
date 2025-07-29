@@ -23,7 +23,9 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Oomen R.A., Cariani A., Chavarie L., <b>Leone, A.</b>, Vella, A., Vella, N., Hellström, G., Brodin, T., Sundelöf, A., Blaxter, M., Mc Cartney, A.M., Formenti, G., Mouton, A., Tinti, F., Garibaldi, F., Lundberg, P. (2025). The genome sequence of Atlantic Bluefin Tuna, _Thunnus thynnus_ (Linnaeus, 1758) [[version 1; peer review: **1 approved, 3 approved with reservations**]. __*Wellcome Open Research*__, 10:163. doi: https://doi.org/10.12688/wellcomeopenres.23971.1 [View Publication](https://doi.org/10.12688/wellcomeopenres.23971.1).
+ - Delord, C., Arnaud-Haond, S., **Leone, A.**, Noskova, E., Tournebize, R., Jacques, P., Marsac, F., Nikolic, N. (2025). Effective Population Size Estimation in Large Marine Populations: Considering Current Challenges and Opportunities When Simulating Large Data Sets With High-Density Genomic Information. __*Evolutionary Applications*__, 18:e70121. doi: https://doi.org/10.1111/eva.70121 [View Publication](https://onlinelibrary.wiley.com/doi/10.1111/eva.70121).
+
+- Oomen R.A., Cariani A., Chavarie L., <b>Leone, A.</b>, Vella, A., Vella, N., Hellström, G., Brodin, T., Sundelöf, A., Blaxter, M., Mc Cartney, A.M., Formenti, G., Mouton, A., Tinti, F., Garibaldi, F., Lundberg, P. (2025). The genome sequence of Atlantic Bluefin Tuna, _Thunnus thynnus_ (Linnaeus, 1758) [[version 1; peer review: **1 approved, 3 approved with reservations**]. __*Wellcome Open Research*__, 10:163. doi: https://doi.org/10.12688/wellcomeopenres.23971.1 [View Publication](https://doi.org/10.12688/wellcomeopenres.23971.1).
 
  - Delord, C., Arnaud-Haond, S., **Leone, A.**, Rolland, J., Nikolic, N. (2024). Unraveling the complexity of the _Ne/Nc_ Ratio for conservation of large and widespread pelagic species: current status and challenges. __*Evolutionary Applications*__, 17(10): e70020. doi: https://doi.org/10.1111/eva.70020 [View Publication](https://doi.org/10.1111/eva.70020).
    
