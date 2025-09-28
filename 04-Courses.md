@@ -13,6 +13,12 @@ title: Courses
 #### - Master's Degree Course in Natural Sciences (LM-60)
 #### - Corso di Laurea Magistrale in Scienze della Natura (LM-60)
 - Didattica dell'Ecologia (3 CFU); I Semestre
+
+### academic year 2025/2026
+#### - Master's Degree Course in Natural Sciences (LM-60)
+#### - Corso di Laurea Magistrale in Scienze della Natura (LM-60 R)
+- Didattica dell'Ecologia (3 CFU); I Semestre
+
 <br>
 
 ## Doctoral School in Biodiversity, University of Palermo
