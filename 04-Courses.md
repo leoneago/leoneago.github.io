@@ -23,11 +23,11 @@ title: Courses
 
 ## Doctoral School in Biodiversity, University of Palermo
 
-#### - National PhD course in Biodiversity XXXIX ciclo University of Palermo
+#### - National PhD course in Biodiversity XXXIX cycle, academic year 2023/2024, University of Palermo
 
 - Molecular Ecology (3 CFU)
   
-#### - National PhD course in Biodiversity XL ciclo University of Palermo
+#### - National PhD course in Biodiversity XL cycle, academic year 2024/2025, University of Palermo
 
 - Molecular Ecology (3 CFU)
 <br>
