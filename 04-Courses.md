@@ -30,4 +30,9 @@ title: Courses
 #### - National PhD course in Biodiversity XL cycle, academic year 2024/2025, University of Palermo
 
 - Molecular Ecology (3 CFU)
+
+#### - National PhD course in Biodiversity XL cycle, academic year 2025/2026, University of Palermo
+
+- Molecular Ecology (3 CFU)
+  
 <br>
