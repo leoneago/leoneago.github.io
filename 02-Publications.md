@@ -24,7 +24,7 @@ Journal Articles and Book Chapters
 ----------------------------------
 
  - Crobe, V., Ferretti, F., Iacovelli, M.V., Cilli, E., Ferrari, A., Cariani, A., Bergonzini, C., **Leone, A.**, Bueloni, B., Serena, F., Zava, B., Tinti, F. (2026). 
- Revisiting historical diversity of sawfishes (Pristidae) in the Mediterranean Sea using natural history collections. __*Zoological Journal of the Linnean Society*__, XX(X):XXX. doi: [View Publication](https://doi.org/10.1093/zoolinnean/zlag023). [ACCEPTED, IN PRINT]
+ Revisiting historical diversity of sawfishes (Pristidae) in the Mediterranean Sea using natural history collections. __*Zoological Journal of the Linnean Society*__, XX(X):XXX. doi: https://doi.org/10.1093/zoolinnean/zlag023 [View Publication](https://doi.org/10.1093/zoolinnean/zlag023). [ACCEPTED, IN PRINT]
 
 - Delord, C., Arnaud-Haond, S., **Leone, A.**, Noskova, E., Tournebize, R., Jacques, P., Marsac, F., Nikolic, N. (2025). Effective Population Size Estimation in Large Marine Populations: Considering Current Challenges and Opportunities When Simulating Large Data Sets With High-Density Genomic Information. __*Evolutionary Applications*__, 18(8): e70121. doi: https://doi.org/10.1111/eva.70121 [View Publication](https://onlinelibrary.wiley.com/doi/10.1111/eva.70121).
 
