@@ -23,7 +23,7 @@ Publications
 Journal Articles and Book Chapters
 ----------------------------------
 
- - Crobe, V., Ferretti, F., Iacovelli, M.V., Cilli, E., Ferrari, A., Cariani, A., Bergonzini, C., **Leone, A.**, Bueloni, B., Serena, F., Zava, B., Tinti, F. (2026). 
+ - Crobe, V., Ferretti, F., Cilli, E., Bergonzini, C., Ferrari, A., Iacovelli, M.V., Leone, A., Ariño, A.H., Bellia, E., Benocci, A., Borg, J.J., Breda, M., Bressi, N., Bueloni, E., Castiglia, R., Farina, S., Ghiraldi, L., Guioli, S., Improta, R., Lodovici, O., Maretti, S., Nocita, A., Podestà, M., Quesada, J., Salmaso, R., Schiaparelli, S., Serena, F., Stancher, G., Sulić Šprem, J., Vianello, C., Zanata, G., Zava, B., Cariani, A., Tinti, F. (2026). 
  Revisiting historical diversity of sawfishes (Pristidae) in the Mediterranean Sea using natural history collections. __*Zoological Journal of the Linnean Society*__, XX(X):XXX. doi: https://doi.org/10.1093/zoolinnean/zlag023 [View Publication](https://doi.org/10.1093/zoolinnean/zlag023). [ACCEPTED, IN PRINT]
 
 - Delord, C., Arnaud-Haond, S., **Leone, A.**, Noskova, E., Tournebize, R., Jacques, P., Marsac, F., Nikolic, N. (2025). Effective Population Size Estimation in Large Marine Populations: Considering Current Challenges and Opportunities When Simulating Large Data Sets With High-Density Genomic Information. __*Evolutionary Applications*__, 18(8): e70121. doi: https://doi.org/10.1111/eva.70121 [View Publication](https://onlinelibrary.wiley.com/doi/10.1111/eva.70121).
