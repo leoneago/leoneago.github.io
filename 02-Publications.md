@@ -105,8 +105,8 @@ Podcast (in italian)
 ----------------------------------
 
 *Biodiversità tra le righe*
-https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b
+[https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b](https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b)
 
 *Individui. La personalità animale*
 Ep. 4:
-https://open.spotify.com/episode/71gkxDn4d7coa9i9XEOkJq?si=MLabmRMRRe6lh2GmVUWnsA
+[https://open.spotify.com/episode/71gkxDn4d7coa9i9XEOkJq?si=MLabmRMRRe6lh2GmVUWnsA](https://open.spotify.com/episode/71gkxDn4d7coa9i9XEOkJq?si=MLabmRMRRe6lh2GmVUWnsA)
