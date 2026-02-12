@@ -98,7 +98,7 @@ Journal Articles and Book Chapters
 [<img src="assets/sciences-et-avenir-logo-DC508E3817-seeklogo.com.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.sciencesetavenir.fr/animaux/animaux-marins/plus-de-3-ma-d-annees-de-presence-pour-le-requin-blanc-en-mediterranee_141529)
 [<img src="assets/Breitbart_News.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.breitbart.com/news/great-white-sharks-have-been-in-mediterranean-for-3-2m-years/)
 
-#PODCAST (in italian)
+**Podcast (in italian)**
 *Biodiversità tra le righe*
 https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b
 *Individui. La personalità animale*
