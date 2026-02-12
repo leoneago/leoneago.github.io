@@ -99,8 +99,10 @@ Journal Articles and Book Chapters
 [<img src="assets/Breitbart_News.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.breitbart.com/news/great-white-sharks-have-been-in-mediterranean-for-3-2m-years/)
 
 **Podcast (in italian)**
+
 *Biodiversità tra le righe*
 https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b
+
 *Individui. La personalità animale*
 Ep. 4:
 https://open.spotify.com/episode/71gkxDn4d7coa9i9XEOkJq?si=MLabmRMRRe6lh2GmVUWnsA
