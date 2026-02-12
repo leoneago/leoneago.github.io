@@ -83,3 +83,24 @@ Journal Articles and Book Chapters
  -  Davies, Campbell; Marsac, Francis; Murua, Hilario; Fraile, Igaratza; Fahmi, Zulkarnaen; Farley, Jessica; Grewe, Peter; Proctor, Craig; Clear, Naomi; Lansdell, Matt; Aulich, Jorden; Feutry, Pierre; Cooper, Scott; Foster, Scott; Rodriguez-Ezpeleta, Naiara; Artetxe-Arrate, Iraide; Nikolic, Natacha; Krug, Iñigo; Mendibil, Iñaki; **Leone, Agostino**; Labonne, Maylis; Darnaude, Audrey; Arnaud-Haond, Sophie; Wudianto; Ruchimat, Toni; Satria, Fayakun; Lestari, Pratiwi; Taufik, Muhammad; Priatna, Asep; Zamroni, Achmad. Study of population structure of IOTC species and sharks of interest in the Indian Ocean using genetics and microchemistry: an update on progress and preliminary results. Online: __*IOTC*__; 2019. http://hdl.handle.net/102.100.100/442173?index=1. [View Publication](http://hdl.handle.net/102.100.100/442173?index=1)
 
  - Babcock E.A., Beare D., Carvalho F., Cortés E., Courtney D., Doody C., Green P., Hazin F.H.V., Hazin H., **Leone A**., Liu K.-M., Mourato B., O’Reilly S., Roche W., Tsai W.-P, Winker H., Wögerbauer C.  (2016) Report of the 2015 ICCAT Blue Shark stock assessment session. SCRS/2015/018, __*Collective Volume of Scientific Papers ICCAT*__, 72(4): 866-1019. Available at:          https://www.iccat.int/Documents/CVSP/CV072_2016/n_4/CV072040866.pdf [View Publication](https://www.iccat.int/Documents/CVSP/CV072_2016/n_4/CV072040866.pdf)
+
+<a name="policy"></a>
+**Policy and Public Outreach** <br>
+[<img src="assets/Fox-news-logo.png" height = "73" alt="NPG" style = "border-radius: 15px">](https://www.foxnews.com/science/mediterranean-great-white-sharks-older-than-thought)
+[<img src="assets/png-clipart-phys-org-science-physics-technology-research-science-blue-biology-thumbnail.png" height = "73" alt="NPG" style = "border-radius: 15px">](https://phys.org/news/2020-02-mediterranean-great-white-sharks-million-year-old.html)
+[<img src="assets/favicon-1500x1500.png" height = "73" alt="EUC" style = "border-radius: 15px">](https://www.lescienze.it/news/2020/02/12/news/il_grande_squalo_bianco_abita_il_mediterraneo_da_almeno_3_2_milioni_di_anni-4676719/)
+[<img src="assets/1200px-ANSA_logo.png" height = "73" alt="der Standard" style = "border-radius: 15px">](https://www.ansa.it/canale_ambiente/notizie/natura/2020/02/14/squalo-bianco-in-mediterraneo-da-32mln-di-annivia-pacifico_467b3c47-2cbe-4412-942a-142dd936b60e.html)
+[<img src="assets/gazzettino.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.ilgazzettino.it/animali/squalo_bianco_estinzione-5055067.html?refresh_ce)
+[<img src="assets/Il-Messaggero-450x330.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.ilmessaggero.it/animali/squalo_bianco_mediterraneo_dna_estinzione-5051310.html)
+[<img src="assets/Seal_of_the_University_of_Bologna.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.unibo.it/en/notice-board/the-great-white-shark-and-the-mediterranean-a-3-2-mln-years-long-history)
+[<img src="assets/United_Press_International_(UPI)_logo.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.upi.com/Science_News/2020/02/12/Great-white-sharks-have-been-in-Mediterranean-for-32M-years/6581581509323/)
+[<img src="assets/Logo_Europa_Press.jpeg" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.europapress.es/sociedad/medio-ambiente-00647/noticia-analisis-adn-revelan-gran-tiburon-blanco-mediterraneo-peligro-extincion-20200212104517.html)
+[<img src="assets/sciences-et-avenir-logo-DC508E3817-seeklogo.com.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.sciencesetavenir.fr/animaux/animaux-marins/plus-de-3-ma-d-annees-de-presence-pour-le-requin-blanc-en-mediterranee_141529)
+[<img src="assets/Breitbart_News.svg.png" height = "73" alt="spektrum.de" style = "border-radius: 15px">](https://www.breitbart.com/news/great-white-sharks-have-been-in-mediterranean-for-3-2m-years/)
+
+#PODCAST (in italian)
+*Biodiversità tra le righe*
+https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b
+*Individui. La personalità animale*
+Ep. 4:
+https://open.spotify.com/episode/71gkxDn4d7coa9i9XEOkJq?si=MLabmRMRRe6lh2GmVUWnsA
