@@ -23,7 +23,7 @@ Seminars
 =============
 <a name="Seminars"></a>
 
-- Speaker su invito per l’incontro “Tra Scienza e Parole: la biodiversità fra le righe”, insieme allo scrittore Andrea Tarabbia (Premio Campiello 2019) e moderati da Enrico Bergianti, giornalista e podcaster, collaboratore di Radio24 e docente al Master in Comunicazione della Scienza della Sissa di Trieste. Attività organizzata nell’ambito dello SHARPER-Notter Europea dei Ricercatori e promossa da NBFC. https://www.sharper-night.it/evento/tra-scienza-e-parole-la-biodiversita-fra-le-righe/ [[https://www.sharper-night.it/evento/tra-scienza-e-parole-la-biodiversita-fra-le-righe/](https://www.sharper-night.it/evento/tra-scienza-e-parole-la-biodiversita-fra-le-righe/)]
+- Speaker su invito per l’incontro “Tra Scienza e Parole: la biodiversità fra le righe”, insieme allo scrittore Andrea Tarabbia (Premio Campiello 2019) e moderati da Enrico Bergianti, giornalista e podcaster, collaboratore di Radio24 e docente al Master in Comunicazione della Scienza della Sissa di Trieste. Attività organizzata nell’ambito dello SHARPER-Notter Europea dei Ricercatori e promossa da NBFC. [[https://www.sharper-night.it/evento/tra-scienza-e-parole-la-biodiversita-fra-le-righe/](https://www.sharper-night.it/evento/tra-scienza-e-parole-la-biodiversita-fra-le-righe/)]
 
 Podcast
 =============
