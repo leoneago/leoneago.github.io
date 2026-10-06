@@ -30,6 +30,6 @@ Podcast
 <a name="Podcast"></a>
 
 - Ospite come speaker per il podcast “Biodiversità tra le righe” Episodio 1 “Calamari giganti e Ba-lene Albine”. Link alla puntata su piattaforma Spotify:
-[[https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b](https://open.spotify.com/episode/6GTmhoWznfijjLYzch7QOB?si=10798d2303174a9b)]
+[[https://open.spotify.com/episode/22b88JZkncEJK61ybVGm7g](https://open.spotify.com/episode/22b88JZkncEJK61ybVGm7g)]
 - Ospite come speaker per il podcast “Individui. La personalità animale” Episodio 4 “La Fortuna aiuta gli audaci?” . Link alla puntata su piattaforma Spotify:
 [[https://open.spotify.com/episode/71gkxDn4d7coa9i9XEOkJq?si=MsCYuHg8QfaRzBgBFcCkZA](https://open.spotify.com/episode/71gkxDn4d7coa9i9XEOkJq?si=MsCYuHg8QfaRzBgBFcCkZA)]
